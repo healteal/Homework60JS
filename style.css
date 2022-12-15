@@ -1,0 +1,16 @@
+div.main {
+    height: 600px;
+    width: 1000px;  
+    padding: 4px;
+    padding-left: 0;
+}
+img {
+    height: 200px;
+    width: 200px;
+    image-resolution:inherit;
+    float: left;
+}
+.text__rightSide {
+    font-size: x-large;
+    margin-left: 5px;
+}
